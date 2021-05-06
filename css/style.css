@@ -1,0 +1,68 @@
+* {
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+body {
+	padding: 25px;
+}
+
+h1 {
+	color: grey;
+}
+
+p {
+	color: grey;
+}
+
+a {
+	border-radius: 100px;
+	background-color: grey;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+img {
+  border-radius: 100px;
+  box-shadow: 0 0 7px #666;
+}
+
+input {
+	margin: 0;
+  padding: 16px 32px;
+  border-radius: 100px;
+  border: solid 1px;
+  color: #5a5a5a;
+}
+
+.inputfile {
+
+}
+
+button{
+	border-radius: 100px;
+	background-color: grey;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.block {
+	padding: 25px;
+}
